@@ -1,2 +1,2 @@
 Test
-„Änderung für TestDatei“ 
+„Änderung für TestDatei"
